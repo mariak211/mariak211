@@ -1,5 +1,7 @@
 
-![myreadme_95e54691](https://github.com/user-attachments/assets/6a88a377-3de0-4c5f-a73f-8a1eb40d8ad0)
+
+![profile](https://github.com/user-attachments/assets/04e88cff-6f60-4fc4-b458-7b5002c5e0fa)
+
 
 
 <h3 align="center">Founding Engineer | Founder @ <a href='https://www.nilepay.tech/'>NilePay</a> | iOS Engineer @ <a href='https://www.openlane.ca/en/'> Openlane Canada</a></h3>
