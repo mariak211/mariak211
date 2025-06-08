@@ -9,18 +9,3 @@
 </p>
 
 
-
-<h3 align="center">Founding Engineer | Founder @ <a href='https://www.nilepay.tech/'>NilePay</a> | iOS Engineer @ <a href='https://www.openlane.ca/en/'> Openlane Canada</a></h3>
-
-![nilepaygif](https://github.com/user-attachments/assets/87d62aee-4c1d-4c6f-a16f-aab82434d8f0)
-
-<p align="center">
-  <i>NilePay is a modern remittance platform built for the South Sudanese diaspora, offering fast, secure, and affordable cross-border money transfers. With a focus on community, trust, and financial access, NilePay is reshaping how South Sudanese families both in diaspora and back home stay connected through finance.</i>
-</p>
-
-
-
-
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mariak211&show_icons=true&theme=radical" alt="mariak211" />
-  
