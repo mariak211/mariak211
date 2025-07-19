@@ -15,7 +15,7 @@
 
 <p align="center">
   Find clarity, track your energy, and align with what truly matters.<br>
-  <strong>isOKai</strong> is coming to the App Store sooooon.
+  <strong>isOKai</strong> — <a href="https://isokai.web.app/" target="_blank">Check it out here</a>.
 </p>
 
 <p align="center">
