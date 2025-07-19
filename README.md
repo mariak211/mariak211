@@ -2,20 +2,19 @@
   <img src="https://github.com/user-attachments/assets/04e88cff-6f60-4fc4-b458-7b5002c5e0fa" alt="Profile" width="100%" />
 </p>
 
-<h1 align="center">✨ Meet isOKai — <a href="https://isokai.web.app/" target="_blank">Now Live on testFligt</a>.</h1>
+<h1 align="center">✨ Meet isOKai — <a href= "https://testflight.apple.com/join/51RX2Nj9", target="_blank">Now Live on testFligt</a>.</h1>
 
 <p align="center">
   <strong>A clarity and wellness companion for founders.</strong><br>
   Your mind deserves a dashboard — this is where it begins.
 </p>
-
 ---
 
 ### 🧘‍♂️ Why isOKai?
 
 <p align="center">
   Find clarity, track your energy, and align with what truly matters.<br>
-  <strong>isOKai</strong>
+  <strong>isOKai</strong> - <a href= "https://isokai.web.app/", target="_blank">Website</a>.</h1>
 </p>
 
 <p align="center">
